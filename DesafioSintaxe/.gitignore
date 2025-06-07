@@ -1,13 +1,13 @@
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!DesafioSintaxe/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
+DesafioSintaxe/.idea/modules.xml
 .idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+DesafioSintaxe/.idea/compiler.xml
+DesafioSintaxe/.idea/libraries/
 *.iws
 *.iml
 *.ipr
